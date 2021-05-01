@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![theryebread's github stats](https://github-readme-stats.vercel.app/api?username=Ry0&count_private=true&show_icons=true)
+![theryebread's github stats](https://github-readme-stats.vercel.app/api?username=theryebread&count_private=true&show_icons=true)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry0)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=theryebread)
 
 <!--
 **theryebread/theryebread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
