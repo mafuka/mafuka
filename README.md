@@ -2,6 +2,8 @@
 
 ![AwAmeow's github stats](https://github-readme-stats.vercel.app/api?username=AwAmeow&count_private=true&show_icons=true)
 
+![ZhiJUG/ZhiJU](https://github-readme-stats.vercel.app/api/pin/?username=AwAmeow&repo=github-readme-stats&show_owner=true)](https://github.com/zhijug/zhiju)
+
 <!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=theryebread) -->
 
 <!--
