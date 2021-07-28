@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![theryebread's github stats](https://github-readme-stats.vercel.app/api?username=theryebread&count_private=true&show_icons=true)
+![AwAmeow's github stats](https://github-readme-stats.vercel.app/api?username=AwAmeow&count_private=true&show_icons=true)
 
 <!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=theryebread) -->
 
 <!--
-**theryebread/theryebread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AwAmeow/AwAmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
