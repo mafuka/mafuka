@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![AwAmeow's github stats](https://github-readme-stats.vercel.app/api?username=AwAmeow&count_private=true&show_icons=true)
+![KuriH233's github stats](https://github-readme-stats.vercel.app/api?username=KuriH233&count_private=true&show_icons=true)
 
 <!-- ![ZhiJUG/ZhiJU](https://github-readme-stats.vercel.app/api/pin/?username=zhijug&repo=zhiju&show_owner=true)
 ![ZhiJUG/ZhiJU](https://github-readme-stats.vercel.app/api/pin/?username=zhijug&repo=zhiju-web-client&show_owner=true)
@@ -10,7 +10,7 @@
 <!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=theryebread) -->
 
 <!--
-**AwAmeow/AwAmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KuriH233/KuriH233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
