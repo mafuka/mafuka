@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![KuriH233's github stats](https://github-readme-stats.vercel.app/api?username=KuriH233&count_private=true&show_icons=true)
+![Michael Ma's github stats](https://github-readme-stats.vercel.app/api?username=michaelma233&count_private=true&show_icons=true)
 
 <!-- ![ZhiJUG/ZhiJU](https://github-readme-stats.vercel.app/api/pin/?username=zhijug&repo=zhiju&show_owner=true)
 ![ZhiJUG/ZhiJU](https://github-readme-stats.vercel.app/api/pin/?username=zhijug&repo=zhiju-web-client&show_owner=true)
