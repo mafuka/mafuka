@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kwaain's github stats](https://github-readme-stats.vercel.app/api?username=kwaain&count_private=true&show_icons=true)
+![Kwaain's github stats](https://github-readme-stats.vercel.app/api?username=mafuka&count_private=true&show_icons=true)
 
 <!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaain) -->
 
